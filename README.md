@@ -1,3 +1,3 @@
 # AI-Resume-Screening-System
 AI-powered resume screening system using NLP and Machine Learning
-(Currently in Planning Phase)
+(Project not in developemnt. Diverting to alternate project based on purpose)
